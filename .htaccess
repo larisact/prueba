@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^servicio/([0-9a-zA-Z-]*)$ servicio/api.php?nombre=$1 [NC,L]
