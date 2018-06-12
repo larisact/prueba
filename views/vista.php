@@ -6,7 +6,7 @@
 <body>
 	<table>
         <tr>
-            <td>SERVIIIIICIOOOOOO</td>
+            <td>SE</td>
             <td>PRECIOOOOO</td>
         </tr>
             <?php
