@@ -7,7 +7,7 @@
 	<table>
         <tr>
             <td>SERVICIO</td>
-            <td>PRECIO</td>
+            <td>PRECIOOOOO</td>
         </tr>
             <?php
                 for ($i = 0; $i < count($datos); $i++) {
